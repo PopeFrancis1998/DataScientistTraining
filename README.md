@@ -2,5 +2,5 @@
 Applying my learnings on Data Science
 
 
-##Resources
+## Resources
 https://www.kaggle.com/datasets/heptapod/titanic
